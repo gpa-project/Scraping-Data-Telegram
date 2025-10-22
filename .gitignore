@@ -2,11 +2,6 @@
 *.session
 *.session-journal
 
-# Downloaded content
-download/
-downloads/
-media/
-
 # Python
 __pycache__/
 *.py[cod]
