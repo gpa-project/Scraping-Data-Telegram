@@ -1,0 +1,5 @@
+# Telegram Backup - Stable Version for Python 3.13.7
+telethon==1.31.0
+cryptography==41.0.7
+rsa==4.9
+pyaes==1.6.1
