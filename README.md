@@ -15,6 +15,7 @@ A powerful and efficient tool for scraping Telegram messages using Python and Te
 - Python 3.13.7 or higher
 - Telegram API credentials (API ID and API Hash)
 - Active Telegram account
+- Your Telegram account must be a member of the target channel/group for the scraping process to work properly
 
 ## 📦 Dependencies
 
